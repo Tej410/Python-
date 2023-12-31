@@ -10,14 +10,10 @@
 #     9: "Nine",
 #     0: "Zero"
 # }
-
-
 # phone = input("Phone: ")
 # string = ""
 # for digit in phone:
 #     string += numbers[int(digit)] + " "
-    
-
 # print(string)
 
 
