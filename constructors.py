@@ -8,4 +8,3 @@ class Pygram:
 john = Pygram("john")
 print(john.name)
 john.talk()            
-        
